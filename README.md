@@ -1,7 +1,7 @@
 # 🏡 California Housing Price Prediction
 
 This project is part of a supervised learning assignment.  
-We use the California Housing dataset to predict house prices and classify houses as above/below the median price.  
+I use the California Housing dataset to predict house prices and classify houses as above/below the median price.  
 
 The project follows the steps shown in the tutorial and covers:
 - Data Cleaning
@@ -56,7 +56,7 @@ New features created:
 - One-hot encode categorical features  
 
 ### 9. Train Models
-We train multiple supervised learning models:
+I train multiple supervised learning models:
 - **Linear Regression**  
 - **Logistic Regression** (for classification task)  
 - **K-Nearest Neighbors (KNN)**  
