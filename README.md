@@ -91,6 +91,3 @@ We train multiple supervised learning models:
 
 ✍️ **Author:** Mazen Mohammed 
 📅 **Course Assignment - 2025**
-
-✍️ **Author:** Your Name  
-📅 **Course Assignment - 2025**
